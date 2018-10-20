@@ -98,7 +98,6 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 
         <header-file src="src/ios/Firebase/Firebase.h" />
         
-		<!--
 		<framework custom="true" src="src/ios/Firebase/Analytics/FirebaseAnalytics.framework" />
 		<framework custom="true" src="src/ios/Firebase/Analytics/FirebaseCore.framework" />
 		<framework custom="true" src="src/ios/Firebase/Analytics/FirebaseCoreDiagnostics.framework" />
@@ -106,7 +105,6 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 		<framework custom="true" src="src/ios/Firebase/Analytics/FirebaseNanoPB.framework" />
 		<framework custom="true" src="src/ios/Firebase/Analytics/GoogleToolboxForMac.framework" />
 		<framework custom="true" src="src/ios/Firebase/Analytics/nanopb.framework" />
-		-->
 	        <framework custom="true" src="src/ios/Firebase/DynamicLinks/FirebaseDynamicLinks.framework" />
     </platform>
 
